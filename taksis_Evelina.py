@@ -37,3 +37,7 @@ else :   # ja taksī ir mazāk vai 4 cilvēki, tad turpinās programma
     print()  
     print("Kopējā cena par braucienu :", kopeja_cena, "€")  
     # visi print, kas ir pēdējās rindās ir veidoti lai glīti izkārtotos un būtu labi pārredzams "čeks"
+     print("Kopējā cena par braucienu :", kopeja_cena, "€")  
+    # visi print, kas ir pēdējās rindās ir veidoti lai glīti izkārtotos un būtu labi pārredzams "čeks" print("Kopējā cena par braucienu :", kopeja_cena, "€")  
+    # visi print, kas ir pēdējās rindās ir veidoti lai glīti izkārtotos un būtu labi pārredzams "čeks" print("Kopējā cena par braucienu :", kopeja_cena, "€")  
+    # visi print, kas ir pēdējās rindās ir veidoti lai glīti izkārtotos un būtu labi pārredzams "čeks"
