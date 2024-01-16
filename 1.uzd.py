@@ -9,3 +9,5 @@ print("Sakārtots saraksts: ", sorted(zoo))
 print("--------------------------")
 print("Dilstošā secībā: ", sorted(skaitli, reverse=True))
 print("Dilstošā secībā: ", sorted(zoo, reverse=True))
+
+#hfsjfhsghseukfhaukefhsaekufhew
